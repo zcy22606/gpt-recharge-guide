@@ -6,12 +6,13 @@
 >
 > **安全提示：** 任何情况下都不要把账号密码、邮箱验证码、API Key 交给第三方。
 
-本文更新于 2026-11-24。觉得有用的话点个 ⭐，有新变化会持续更新。
+本文更新于 2026-11-25。觉得有用的话点个 ⭐，有新变化会持续更新。
 
 ## 最近动态
 
 | 日期 | 变化 | 对订阅和充值的影响 | 来源 |
 | --- | --- | --- | --- |
+| 2026-11-23 | ChatGPT 官方宣布 12 月 23 日起 GPT-5.6 Sol 从 Chat 下线，GPT-5.6 Sol 和 Terra 从 Work、Codex 下线 | 只为 GPT-5.6 订阅的先试 GPT-6.2 再决定续多久；Codex 里写死 GPT-5.6 的要提前换模型 | [ChatGPT 官方 X](https://x.com/ChatGPT/status/2124981905380569283) · [详细解读](https://openmead.com/guides/gpt-5-6-retirement/?utm_source=github&utm_medium=readme&utm_campaign=recharge-guide) |
 | 2026-11-23 | 聊天优化版 GPT-6.2 进入 ChatGPT Chat 标签页，面向 Plus、Pro、Business、Enterprise 逐步推送 | Go 和免费版不在官方名单（据报道暂不可用）；想在日常聊天用新模型至少要 Plus，不必为它升 Pro | [OpenAI 更新日志](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · [详细解读](https://openmead.com/guides/gpt-6-2-chatgpt-chat/?utm_source=github&utm_medium=readme&utm_campaign=recharge-guide) |
 | 2026-12（官方说「12 月起」） | Plus、Pro、Business 的额度在 ChatGPT 和 Codex 之间共用，按 token 计算 | 用高级模型聊天也会消耗写代码的额度；Instant 聊天不占额度；用完可以买额度继续用 | [OpenAI 帮助中心](https://help.openai.com/en/articles/20001625-understanding-chatgpt-and-codex-usage-limits) · [详细解读](https://openmead.com/guides/chatgpt-codex-shared-usage/?utm_source=github&utm_medium=readme&utm_campaign=recharge-guide) |
 | 2026-11-20 | ChatGPT Space 开放给 18 岁以上的 Plus 用户，取代 Library | 不用升级 Pro 也能用；打开别人分享的页面需要 Plus 及以上 | [OpenAI 更新日志](https://help.openai.com/en/articles/6825453-chatgpt-release-notes) · [详细解读](https://openmead.com/guides/chatgpt-space-plus/?utm_source=github&utm_medium=readme&utm_campaign=recharge-guide) |
